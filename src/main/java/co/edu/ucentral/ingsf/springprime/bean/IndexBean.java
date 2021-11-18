@@ -20,6 +20,8 @@ import javax.faces.bean.ViewScoped;
 public class IndexBean implements Serializable {
     private String cadena;
     private Integer conteo;
+    private Integer conteo01;
+
 
 
     @PostConstruct
